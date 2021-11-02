@@ -1,0 +1,19 @@
+{
+  "name": "steps-algo-tdd",
+  "version": "1.0.0",
+  "description": "fonction qui renvoie n marches osus forme d'escalier",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/steps-algo-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/steps-algo-tdd/issues"
+  },
+  "homepage": "https://github.com/rapatte/steps-algo-tdd#readme"
+}
